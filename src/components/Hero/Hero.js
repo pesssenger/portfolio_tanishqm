@@ -12,7 +12,7 @@ const Hero = () => (
         Tanishq maheshwari
       </SectionTitle>
       <SectionText>
-        Front-End Dev
+        Web Developer | Graphic Designer | Deep Learning
       </SectionText>
       <Button onClick={() => window.open("https://www.linkedin.com/in/tanishq-maheshwari-5605b71ab/", "_blank")}>Contact Me :)</Button>
     </LeftSection>
